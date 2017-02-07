@@ -7,7 +7,7 @@ import org.bukkit.entity.Player
  * Created by camdenorrb on 12/18/16.
  */
 
-class RankUpdateEvent (val player: Player, val fromRank: Rank, val toRank: Rank) {
+class RankUpdateEvent(val player: Player, val fromRank: Rank, val toRank: Rank) {
 
 
 }
